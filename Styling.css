@@ -1,0 +1,23 @@
+ .centertext {
+text-align: center;
+font-style: normal;
+color: white;
+}
+
+ .image {
+width: 250px;
+image-orientation: center;
+border: thick solid white;
+}
+
+.centerimage {
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  opacity: 2;
+
+}
+
+.fontborder {
+ border: thick solid gray;
+}
